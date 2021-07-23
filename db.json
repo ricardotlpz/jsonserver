@@ -36,6 +36,78 @@
         "Card/ExampleCards/CardFront04.mat",
         "Card/ExampleCards/CardFront05.mat"
       ]
+    },
+    {
+      "id":3,
+      "name": "EnemyMetalPackAnimation-Basic-V4",
+      "materials": 
+      [
+        "Card/ExampleCards/CardFront02.mat",
+        "Card/ExampleCards/CardFront03.mat",
+        "Card/ExampleCards/CardFront03.mat",
+        "Card/ExampleCards/CardFront02.mat",
+        "Card/ExampleCards/CardFront02.mat"
+      ]
+    },
+    {
+      "id":4,
+      "name": "EnemyMetalPackAnimation-Gold-V4",
+      "materials": 
+      [
+        "Card/ExampleCards/CardFront04.mat",
+        "Card/ExampleCards/CardFront05.mat",
+        "Card/ExampleCards/CardFront04.mat",
+        "Card/ExampleCards/CardFront05.mat",
+        "Card/ExampleCards/CardFront05.mat"
+      ]
+    },
+    {
+      "id":5,
+      "name": "EnemyMetalPackAnimation-Diamond-V4",
+      "materials": 
+      [
+        "Card/ExampleCards/CardFront02.mat",
+        "Card/ExampleCards/CardFront03.mat",
+        "Card/ExampleCards/CardFront04.mat",
+        "Card/ExampleCards/CardFront03.mat",
+        "Card/ExampleCards/CardFront02.mat"
+      ]
+    },
+    {
+      "id":6,
+      "name": "EnemyMetalPackAnimation-Basic-V4",
+      "materials": 
+      [
+        "Card/ExampleCards/CardFront05.mat",
+        "Card/ExampleCards/CardFront01.mat",
+        "Card/ExampleCards/CardFront05.mat",
+        "Card/ExampleCards/CardFront01.mat",
+        "Card/ExampleCards/CardFront05.mat"
+      ]
+    },
+    {
+      "id":7,
+      "name": "EnemyMetalPackAnimation-Gold-V4",
+      "materials": 
+      [
+        "Card/ExampleCards/CardFront04.mat",
+        "Card/ExampleCards/CardFront05.mat",
+        "Card/ExampleCards/CardFront01.mat",
+        "Card/ExampleCards/CardFront01.mat",
+        "Card/ExampleCards/CardFront05.mat"
+      ]
+    },
+    {
+      "id":8,
+      "name": "EnemyMetalPackAnimation-Diamond-V4",
+      "materials": 
+      [
+        "Card/ExampleCards/CardFront03.mat",
+        "Card/ExampleCards/CardFront03.mat",
+        "Card/ExampleCards/CardFront05.mat",
+        "Card/ExampleCards/CardFront01.mat",
+        "Card/ExampleCards/CardFront03.mat"
+      ]
     }
   ]
 }
