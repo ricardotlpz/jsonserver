@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardotlpz/jsonserver.git"
+  },
+  "keywords": [
+    "jsonserver"
+  ],
+  "author": "Epix Industries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardotlpz/jsonserver/issues"
+  },
+  "homepage": "https://github.com/ricardotlpz/jsonserver#readme"
+}
