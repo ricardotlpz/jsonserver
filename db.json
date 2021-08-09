@@ -3,26 +3,56 @@
   [
     {
       "id":0,
-      "name": "EnemyMetalPackAnimation-Basic-V4",
+      "name": "EnemyMetalPackAnimation-Basic",
       "materials": 
       [
-        "Card/ExampleCards/CardFront01.mat",
-        "Card/ExampleCards/CardFront02.mat",
-        "Card/ExampleCards/CardFront01.mat",
-        "Card/ExampleCards/CardFront02.mat",
-        "Card/ExampleCards/CardFront01.mat"
+        {
+          "name": "Card/ExampleCards/408_Glaceus.png",
+          "animated":false
+        },
+        {
+          "name": "Card/CardVideoBack/CardBackLoop.mp4",
+          "animated":true
+        },
+        {
+          "name": "Card/CardVideoBack/CardBackLoop.mp4",
+          "animated":true
+        },
+        {
+          "name": "Card/CardVideoBack/CardBackLoop.mp4",
+          "animated":true
+        },
+        {
+          "name": "Card/CardVideoBack/CardBackLoop.mp4",
+          "animated":true
+        }
       ]
     },
     {
       "id":1,
-      "name": "EnemyMetalPackAnimation-Gold-V4",
+      "name": "EnemyMetalPackAnimation-Gold",
       "materials": 
       [
-        "Card/ExampleCards/CardFront03.mat",
-        "Card/ExampleCards/CardFront04.mat",
-        "Card/ExampleCards/CardFront03.mat",
-        "Card/ExampleCards/CardFront04.mat",
-        "Card/ExampleCards/CardFront03.mat"
+        {
+          "name": "Card/ExampleCards/408_Glaceus.png",
+          "animated":false
+        },
+        {
+          "name": "Card/ExampleCards/408_Glaceus.png",
+          "animated":false
+        },
+        {
+          "name": "Card/ExampleCards/408_Glaceus.png",
+          "animated":false
+        },
+        {
+          "name": "Card/ExampleCards/408_Glaceus.png",
+          "animated":false
+        },
+        {
+          "name": "Card/CardVideoBack/CardBackLoop.mp4",
+          "animated":true
+        }
       ]
     },
     {
